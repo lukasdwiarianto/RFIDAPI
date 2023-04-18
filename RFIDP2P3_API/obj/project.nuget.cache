@@ -1,0 +1,31 @@
+{
+  "version": 2,
+  "dgSpecHash": "WNtrZqhK8lIs+3WD7WXouLL/uULP/MCs6MNyETDnL2hhlPHhbQCYnEYO0iSQ0zAJBrlOGs1dRAymlWxzJ5x8TA==",
+  "success": false,
+  "projectFilePath": "C:\\webproject\\RFIDBAKAP\\RFIDP2P3_API2\\RFIDP2P3_API\\RFIDP2P3_API.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'System.Data.SqlClient' from remote source 'https://api.nuget.org/v3-flatcontainer/system.data.sqlclient/index.json'.",
+      "libraryId": "System.Data.SqlClient"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'BarCode' from remote source 'https://api.nuget.org/v3-flatcontainer/barcode/index.json'.",
+      "libraryId": "BarCode"
+    },
+    {
+      "code": "Undefined",
+      "level": "Error",
+      "message": "Failed to download package 'IronOcr.2023.4.13' from 'https://api.nuget.org/v3-flatcontainer/ironocr/2023.4.13/ironocr.2023.4.13.nupkg'.\r\nThe HTTP request to 'GET https://api.nuget.org/v3-flatcontainer/ironocr/2023.4.13/ironocr.2023.4.13.nupkg' has timed out after 100000ms."
+    },
+    {
+      "code": "Undefined",
+      "level": "Error",
+      "message": "Failed to download package 'Swashbuckle.AspNetCore.6.5.0' from 'https://api.nuget.org/v3-flatcontainer/swashbuckle.aspnetcore/6.5.0/swashbuckle.aspnetcore.6.5.0.nupkg'.\r\nThe download of 'https://api.nuget.org/v3-flatcontainer/swashbuckle.aspnetcore/6.5.0/swashbuckle.aspnetcore.6.5.0.nupkg' timed out because no data was received for 60000ms.\r\n  Exception of type 'System.TimeoutException' was thrown."
+    }
+  ]
+}

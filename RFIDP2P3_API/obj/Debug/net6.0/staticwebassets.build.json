@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "wVGJZJFFMu4JeQc9MEcy1klplIHSI7txTMHyo0gW4bw=",
+  "Source": "RFIDP2P3_API",
+  "BasePath": "_content/RFIDP2P3_API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
